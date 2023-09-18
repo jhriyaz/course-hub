@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "JavaScript Fundamentals",
+    "photo": "https://i.ibb.co/t4pdSxB/Java-Script-Fundamentals.jpg",
+    "price": 49.99,
+    "creditHours": 4,
+    "details": "Master the fundamentals of JavaScript programming for web development."
+  },
+  {
+    "id": 2,
+    "name": "Python for Data Science",
+    "photo": "https://i.ibb.co/DCCdGMC/Python-for-Data-Science.png",
+    "price": 59.99,
+    "creditHours": 7,
+    "details": "Learn Python programming and data analysis for data science projects."
+  },
+  {
+    "id": 3,
+    "name": "Front-End Web Development",
+    "photo": "https://i.ibb.co/qrgwf0N/Front-End-Web-Development.jpg",
+    "price": 79.99,
+    "creditHours": 9,
+    "details": "Become a front-end web developer with HTML, CSS, and JavaScript skills."
+  },
+  {
+    "id": 4,
+    "name": "Java Programming Basics",
+    "photo": "https://i.ibb.co/HCN0qtS/what-is-core-java.png",
+    "price": 69.99,
+    "creditHours": 6,
+    "details": "Get started with Java programming for software development."
+  },
+  {
+    "id": 5,
+    "name": "C++ Game Development",
+    "photo": "https://i.ibb.co/FB6sV4V/Rectangle-2-2.png",
+    "price": 89.99,
+    "creditHours": 9,
+    "details": "Create interactive games using C++ programming and game development techniques."
+  },
+  {
+    "id": 6,
+    "name": "Swift for iOS App Development",
+    "photo": "https://i.ibb.co/DbjsmpF/download.jpg",
+    "price": 79.99,
+    "creditHours": 8,
+    "details": "Develop iOS apps with Swift programming language and Xcode."
+  },
+  {
+    "id": 7,
+    "name": "Ruby on Rails Mastery",
+    "photo": "https://i.ibb.co/JQXG2Kp/download.png",
+    "price": 69.99,
+    "creditHours": 7,
+    "details": "Become proficient in Ruby on Rails for web application development."
+  },
+  {
+    "id": 8,
+    "name": "Machine Learning with R",
+    "photo": "https://i.ibb.co/rHZTBVm/download-1.jpg",
+    "price": 79.99,
+    "creditHours": 8,
+    "details": "Explore machine learning concepts using the R programming language."
+  },
+  {
+    "id": 9,
+    "name": "Databases and SQL Fundamentals",
+    "photo": "https://i.ibb.co/vvtGgH8/Rectangle-2-1.png",
+    "price": 49.99,
+    "creditHours": 6,
+    "details": "Learn the basics of databases and SQL for data management."
+  },
+  {
+    "id": 10,
+    "name": "Responsive Web Design",
+    "photo": "https://i.ibb.co/CtL0DST/responsive-web-design-1-61f01c4b64c5f-sej.webp",
+    "price": 59.99,
+    "creditHours": 3,
+    "details": "Create responsive web designs using CSS and HTML techniques."
+  }
+]
